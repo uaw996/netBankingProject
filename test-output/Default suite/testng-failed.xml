@@ -6,7 +6,7 @@
       <class name="com.netBankingTestCases.TC_LoginTest_001">
         <methods>
           <include name="getDriver"/>
-          <include name="loginTest"/>
+          <include name="loginTest" invocation-numbers="0 1"/>
         </methods>
       </class> <!-- com.netBankingTestCases.TC_LoginTest_001 -->
     </classes>
