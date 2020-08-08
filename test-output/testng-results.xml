@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="85356" started-at="2020-08-08T11:28:32 IST" finished-at="2020-08-08T11:29:57 IST">
+  <suite name="Suite" duration-ms="49015" started-at="2020-08-08T17:00:04 IST" finished-at="2020-08-08T17:00:53 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="85356" started-at="2020-08-08T11:28:32 IST" finished-at="2020-08-08T11:29:57 IST">
+    <test name="validating user login and managerHomePage title" duration-ms="32326" started-at="2020-08-08T17:00:04 IST" finished-at="2020-08-08T17:00:37 IST">
       <class name="com.netBankingTestCases.TC_LoginTest_001">
-        <test-method status="PASS" signature="getDriver()[pri:0, instance:com.netBankingTestCases.TC_LoginTest_001@57250572]" name="getDriver" is-config="true" duration-ms="27496" started-at="2020-08-08T11:28:32 IST" finished-at="2020-08-08T11:28:59 IST">
+        <test-method status="PASS" signature="getDriver()[pri:0, instance:com.netBankingTestCases.TC_LoginTest_001@57250572]" name="getDriver" is-config="true" duration-ms="7008" started-at="2020-08-08T17:00:04 IST" finished-at="2020-08-08T17:00:11 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getDriver -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.netBankingTestCases.TC_LoginTest_001@57250572]" name="loginTest" duration-ms="12582" started-at="2020-08-08T11:29:22 IST" data-provider="getDataProvide" finished-at="2020-08-08T11:29:35 IST">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.netBankingTestCases.TC_LoginTest_001@57250572]" name="loginTest" duration-ms="5582" started-at="2020-08-08T17:00:14 IST" data-provider="getDataProvide" finished-at="2020-08-08T17:00:19 IST">
           <params>
             <param index="0">
               <value>
@@ -27,7 +27,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.netBankingTestCases.TC_LoginTest_001@57250572]" name="loginTest" duration-ms="6725" started-at="2020-08-08T11:29:35 IST" data-provider="getDataProvide" finished-at="2020-08-08T11:29:41 IST">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.netBankingTestCases.TC_LoginTest_001@57250572]" name="loginTest" duration-ms="4778" started-at="2020-08-08T17:00:19 IST" data-provider="getDataProvide" finished-at="2020-08-08T17:00:24 IST">
           <params>
             <param index="0">
               <value>
@@ -43,7 +43,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.netBankingTestCases.TC_LoginTest_001@57250572]" name="loginTest" duration-ms="4811" started-at="2020-08-08T11:29:41 IST" data-provider="getDataProvide" finished-at="2020-08-08T11:29:46 IST">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.netBankingTestCases.TC_LoginTest_001@57250572]" name="loginTest" duration-ms="4276" started-at="2020-08-08T17:00:24 IST" data-provider="getDataProvide" finished-at="2020-08-08T17:00:29 IST">
           <params>
             <param index="0">
               <value>
@@ -59,7 +59,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.netBankingTestCases.TC_LoginTest_001@57250572]" name="loginTest" duration-ms="10330" started-at="2020-08-08T11:29:46 IST" data-provider="getDataProvide" finished-at="2020-08-08T11:29:56 IST">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.netBankingTestCases.TC_LoginTest_001@57250572]" name="loginTest" duration-ms="7655" started-at="2020-08-08T17:00:29 IST" data-provider="getDataProvide" finished-at="2020-08-08T17:00:36 IST">
           <params>
             <param index="0">
               <value>
@@ -75,15 +75,31 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="titleTest()[pri:0, instance:com.netBankingTestCases.TC_LoginTest_001@57250572]" name="titleTest" duration-ms="80" started-at="2020-08-08T11:29:56 IST" finished-at="2020-08-08T11:29:56 IST">
+        <test-method status="PASS" signature="titleTest()[pri:0, instance:com.netBankingTestCases.TC_LoginTest_001@57250572]" name="titleTest" duration-ms="111" started-at="2020-08-08T17:00:36 IST" finished-at="2020-08-08T17:00:36 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- titleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.netBankingTestCases.TC_LoginTest_001@57250572]" name="tearDown" is-config="true" duration-ms="830" started-at="2020-08-08T11:29:56 IST" finished-at="2020-08-08T11:29:57 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.netBankingTestCases.TC_LoginTest_001@57250572]" name="tearDown" is-config="true" duration-ms="479" started-at="2020-08-08T17:00:36 IST" finished-at="2020-08-08T17:00:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.netBankingTestCases.TC_LoginTest_001 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- validating user login and managerHomePage title -->
+    <test name="validate manager ID" duration-ms="16087" started-at="2020-08-08T17:00:37 IST" finished-at="2020-08-08T17:00:53 IST">
+      <class name="com.netBankingTestCases.TC_ManagerIDTest">
+        <test-method status="PASS" signature="getDriver()[pri:0, instance:com.netBankingTestCases.TC_ManagerIDTest@3943a2be]" name="getDriver" is-config="true" duration-ms="8024" started-at="2020-08-08T17:00:37 IST" finished-at="2020-08-08T17:00:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method status="PASS" signature="getManagerIDTest()[pri:0, instance:com.netBankingTestCases.TC_ManagerIDTest@3943a2be]" name="getManagerIDTest" duration-ms="7827" started-at="2020-08-08T17:00:45 IST" finished-at="2020-08-08T17:00:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getManagerIDTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.netBankingTestCases.TC_ManagerIDTest@3943a2be]" name="tearDown" is-config="true" duration-ms="234" started-at="2020-08-08T17:00:53 IST" finished-at="2020-08-08T17:00:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.netBankingTestCases.TC_ManagerIDTest -->
+    </test> <!-- validate manager ID -->
+  </suite> <!-- Suite -->
 </testng-results>

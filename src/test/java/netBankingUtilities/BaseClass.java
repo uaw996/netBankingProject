@@ -24,6 +24,11 @@ public	Properties prop;
 public static  String EXPECT_TITLE = "Guru99 Bank Manager HomePage";
 public static  String EXPECT_ERROR = "User or Password is not valid";
 
+public static String uname ="mngr276899";
+
+public  static String passwd= "qapydAq";
+
+
 	Logger log = LogManager.getLogger(BaseClass.class.getName());
 	public WebDriver setUp() throws IOException {
 		prop = new Properties();

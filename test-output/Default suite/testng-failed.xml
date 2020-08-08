@@ -3,14 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.netBankingTestCases.TC_LoginTest_001">
+      <class name="com.netBankingTestCases.TC_ManagerIDTest">
         <methods>
           <include name="tearDown"/>
           <include name="getDriver"/>
-          <include name="loginTest"/>
-          <include name="titleTest"/>
+          <include name="getManagerIDTest"/>
         </methods>
-      </class> <!-- com.netBankingTestCases.TC_LoginTest_001 -->
+      </class> <!-- com.netBankingTestCases.TC_ManagerIDTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
