@@ -16,6 +16,7 @@ import org.testng.annotations.Test;
 
 import com.netBankingPageObject.LoginPage;
 
+import lib.ReadExcel;
 import netBankingUtilities.BaseClass;
 
 public class TC_LoginTest_001 extends BaseClass {
@@ -85,17 +86,20 @@ public class TC_LoginTest_001 extends BaseClass {
    
    
    @DataProvider
-	public Object[][] getDataProvide() {
+	public Object[][] getDataProvide() throws IOException {
 
-		Object[][] data = new Object[3][2];
-		data[0][0] = "ajshfh";
-		data[0][1] = "pass";
-
-		data[1][0] = "djsjjd";
-		data[1][1] = "jhsdjhf";
-
-		data[2][0] = "mngr276899";
-		data[2][1] = "qapydAq";
+	   ReadExcel rd = new ReadExcel("C:\\Users\\Umesh\\eclipse-workspace\\Guru99Bank\\src\\test\\java\\netBankingTestData\\testData.xlsx");
+	   int row = rd.getRowCount(0);
+		Object[][] data = new Object[row][2];
+	for(int i=0; i<row;i++) {
+		
+		data[i][0] = rd.getdata(0, i, 0);
+		data[i][1] = rd.getdata(0, i, 1);
+		
+		
+	}
+		
+		
 
 		return data;
 	}

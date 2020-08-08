@@ -87,3 +87,310 @@
 08 Aug 2020 00:27:34.016 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Validate Title
 08 Aug 2020 00:27:34.016 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Validate Title
 08 Aug 2020 00:27:34.616 [main] INFO  netBankingUtilities.BaseClass - Browser closed successfully
+08 Aug 2020 09:53:33.506 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 09:53:33.506 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 09:53:39.399 [main] INFO  netBankingUtilities.BaseClass - Browser closed successfully
+08 Aug 2020 09:58:01.123 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 09:58:01.123 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 09:58:02.412 [main] INFO  netBankingUtilities.BaseClass - Browser closed successfully
+08 Aug 2020 10:02:28.548 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:02:28.548 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:02:29.707 [main] INFO  netBankingUtilities.BaseClass - Browser closed successfully
+08 Aug 2020 10:04:49.741 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:04:49.741 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:04:51.038 [main] INFO  netBankingUtilities.BaseClass - Browser closed successfully
+08 Aug 2020 10:10:00.601 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:10:00.601 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:10:01.754 [main] INFO  netBankingUtilities.BaseClass - Browser closed successfully
+08 Aug 2020 10:11:37.802 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:11:37.802 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:11:39.047 [main] INFO  netBankingUtilities.BaseClass - Browser closed successfully
+08 Aug 2020 10:13:40.583 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:13:40.583 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:13:41.636 [main] INFO  netBankingUtilities.BaseClass - Browser closed successfully
+08 Aug 2020 10:15:19.706 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:15:19.706 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:15:20.824 [main] INFO  netBankingUtilities.BaseClass - Browser closed successfully
+08 Aug 2020 10:24:34.285 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:24:34.285 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:24:35.334 [main] INFO  netBankingUtilities.BaseClass - Browser closed successfully
+08 Aug 2020 10:27:33.165 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:27:33.165 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:27:34.233 [main] INFO  netBankingUtilities.BaseClass - Browser closed successfully
+08 Aug 2020 10:29:33.675 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:29:33.675 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:29:41.391 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:29:41.391 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:29:42.123 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:29:42.123 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:29:42.258 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:29:42.258 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:29:46.045 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:29:46.045 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:29:48.767 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:29:48.767 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:29:48.881 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:29:48.881 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:29:49.069 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:29:49.069 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:29:49.601 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:29:49.601 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:29:53.668 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:29:53.668 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:29:53.796 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:29:53.796 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:29:53.904 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:29:53.904 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:29:54.698 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:29:54.698 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:29:59.353 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:29:59.353 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:29:59.477 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:29:59.477 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:29:59.586 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:29:59.586 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:30:00.164 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:30:00.164 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:30:04.095 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:30:04.095 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:30:04.296 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:30:04.296 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:30:04.428 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:30:04.428 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:30:05.385 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:30:05.385 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:30:08.580 [main] INFO  netBankingUtilities.BaseClass - Browser closed successfully
+08 Aug 2020 10:38:09.468 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:38:09.468 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:38:22.068 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:38:22.068 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:38:22.277 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:38:22.277 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:38:22.444 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:38:22.444 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:38:23.724 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:38:23.724 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:38:30.484 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:38:30.484 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:38:30.635 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:38:30.635 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:38:30.731 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:38:30.731 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:38:31.627 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:38:31.627 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:38:36.879 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:38:36.879 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:38:37.027 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:38:37.027 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:38:37.139 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:38:37.139 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:38:37.717 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:38:37.717 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:38:45.017 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:38:45.017 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:38:45.132 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:38:45.132 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:38:45.233 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:38:45.233 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:38:45.768 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:38:45.768 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:38:50.392 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:38:50.392 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:38:50.648 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:38:50.648 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:38:50.788 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:38:50.788 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:38:51.335 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:38:51.335 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:38:56.619 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:38:56.619 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:38:56.748 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:38:56.748 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:38:56.926 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:38:56.926 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:38:57.556 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:38:57.556 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:39:01.507 [main] INFO  netBankingUtilities.BaseClass - Browser closed successfully
+08 Aug 2020 10:43:26.853 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:43:26.853 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:43:35.862 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:43:35.862 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:43:36.134 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:43:36.134 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:43:36.256 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:43:36.256 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:43:36.773 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:43:36.773 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:43:41.726 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:43:41.726 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:43:41.843 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:43:41.843 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:43:41.931 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:43:41.931 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:44:03.845 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:44:03.845 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:44:38.795 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:44:38.795 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:44:45.273 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:44:45.273 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:44:45.557 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:44:45.557 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:44:45.732 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:44:45.732 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:44:46.363 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:44:46.363 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:44:49.996 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:44:49.996 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:44:50.108 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:44:50.108 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:44:50.205 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:44:50.205 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:44:50.677 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:44:50.677 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:44:55.401 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:44:55.401 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:44:55.529 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:44:55.529 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:44:55.638 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:44:55.638 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:44:56.448 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:44:56.448 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:45:02.354 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:45:02.354 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:45:02.511 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:45:02.511 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:45:02.634 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:45:02.634 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:45:03.144 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:45:03.144 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:45:09.847 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:45:09.847 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:45:10.076 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:45:10.076 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:45:10.186 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:45:10.186 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:45:12.253 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:45:12.253 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:45:13.964 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:45:13.964 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:45:14.159 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:45:14.159 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:45:14.331 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:45:14.331 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:45:14.938 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:45:14.938 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:45:18.218 [main] INFO  netBankingUtilities.BaseClass - Browser closed successfully
+08 Aug 2020 10:47:38.082 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:47:38.082 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:47:51.515 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:47:51.515 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:47:51.708 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:47:51.708 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:47:51.831 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:47:51.831 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:47:52.561 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:47:52.561 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:48:01.566 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:48:01.566 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:48:01.677 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:48:01.677 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:48:01.786 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:48:01.786 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:48:02.342 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:48:02.342 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:48:06.126 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:48:06.126 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:48:06.257 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:48:06.257 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:48:06.398 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:48:06.398 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:48:06.988 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:48:06.988 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:48:13.807 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:48:13.807 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:48:13.971 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:48:13.971 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:48:14.087 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:48:14.087 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:48:15.832 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:48:15.832 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:48:21.348 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:48:21.348 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:48:21.533 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:48:21.533 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:48:21.664 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:48:21.664 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:48:27.844 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:48:27.844 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:48:30.262 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:48:30.262 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 10:48:30.409 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:48:30.409 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 10:48:30.533 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:48:30.533 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 10:48:31.088 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:48:31.088 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 10:48:35.637 [main] INFO  netBankingUtilities.BaseClass - Browser closed successfully
+08 Aug 2020 10:57:16.175 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:57:16.175 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:57:17.357 [main] INFO  netBankingUtilities.BaseClass - Browser closed successfully
+08 Aug 2020 10:58:05.793 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:58:05.793 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 10:58:06.897 [main] INFO  netBankingUtilities.BaseClass - Browser closed successfully
+08 Aug 2020 11:00:23.180 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 11:00:23.180 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 11:00:24.166 [main] INFO  netBankingUtilities.BaseClass - Browser closed successfully
+08 Aug 2020 11:03:54.048 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 11:03:54.048 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 11:03:55.482 [main] INFO  netBankingUtilities.BaseClass - Browser closed successfully
+08 Aug 2020 11:09:08.023 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 11:09:08.023 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 11:09:09.012 [main] INFO  netBankingUtilities.BaseClass - Browser closed successfully
+08 Aug 2020 11:12:19.153 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 11:12:19.153 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 11:12:19.431 [main] INFO  netBankingUtilities.BaseClass - Browser closed successfully
+08 Aug 2020 11:15:35.920 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 11:15:35.920 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Browser launch
+08 Aug 2020 11:15:58.236 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 11:15:58.236 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 11:15:58.718 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 11:15:58.718 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 11:15:58.906 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 11:15:58.906 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 11:16:00.242 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 11:16:00.242 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 11:16:03.013 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 11:16:03.013 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 11:16:03.150 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 11:16:03.150 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 11:16:03.251 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 11:16:03.251 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 11:16:05.532 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 11:16:05.532 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 11:16:07.416 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 11:16:07.416 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 11:16:07.553 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 11:16:07.553 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 11:16:07.654 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 11:16:07.654 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 11:16:08.184 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 11:16:08.184 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 11:16:12.013 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 11:16:12.013 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 11:16:12.112 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 11:16:12.112 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 11:16:12.210 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 11:16:12.210 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 11:16:12.681 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 11:16:12.681 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 11:16:16.572 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 11:16:16.572 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Url entered
+08 Aug 2020 11:16:16.698 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 11:16:16.698 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter username
+08 Aug 2020 11:16:16.792 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 11:16:16.792 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - enter password
+08 Aug 2020 11:16:19.546 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 11:16:19.546 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - click on login button
+08 Aug 2020 11:16:19.615 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Validate Title
+08 Aug 2020 11:16:19.615 [main] INFO  com.netBankingTestCases.TC_LoginTest_001 - Validate Title
+08 Aug 2020 11:16:19.933 [main] INFO  netBankingUtilities.BaseClass - Browser closed successfully

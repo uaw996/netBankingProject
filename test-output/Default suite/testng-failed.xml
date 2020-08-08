@@ -5,8 +5,10 @@
     <classes>
       <class name="com.netBankingTestCases.TC_LoginTest_001">
         <methods>
+          <include name="tearDown"/>
           <include name="getDriver"/>
-          <include name="loginTest" invocation-numbers="0 1"/>
+          <include name="loginTest"/>
+          <include name="titleTest"/>
         </methods>
       </class> <!-- com.netBankingTestCases.TC_LoginTest_001 -->
     </classes>
