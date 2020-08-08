@@ -88,7 +88,7 @@ public class TC_LoginTest_001 extends BaseClass {
    @DataProvider
 	public Object[][] getDataProvide() throws IOException {
 
-	   ReadExcel rd = new ReadExcel("C:\\Users\\Umesh\\eclipse-workspace\\Guru99Bank\\src\\test\\java\\netBankingTestData\\testData.xlsx");
+	   ReadExcel rd = new ReadExcel(System.getProperty("user.dir")+"\\src\\test\\java\\netBankingTestData\\testData.xlsx");
 	   int row = rd.getRowCount(0);
 		Object[][] data = new Object[row][2];
 	for(int i=0; i<row;i++) {
