@@ -8,11 +8,13 @@ import org.openqa.selenium.Alert;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.BeforeTest;
+import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import com.netBankingPageObject.BankManagerHomePage;
 import com.netBankingPageObject.LoginPage;
 
+import lib.ReadExcel;
 import netBankingUtilities.BaseClass;
 
 public class TC_ManagerIDTest extends BaseClass {
@@ -29,8 +31,8 @@ public class TC_ManagerIDTest extends BaseClass {
 				   log.info("Browser launch");
 			   }
 	
-	@Test
-	public void getManagerIDTest() throws InterruptedException {
+	@Test(dataProvider ="getDataProvide")
+	public void getManagerIDTest(String uname, String passwd) throws InterruptedException {
 		 driver.get(prop.getProperty("BASE_URL"));
 		   log.info("Url entered");	   
 		   LoginPage lo = new LoginPage(driver);
@@ -51,6 +53,26 @@ public class TC_ManagerIDTest extends BaseClass {
 		log.debug("validate manager ID ");
 		
 	}
+	
+	@DataProvider
+	public Object[][] getDataProvide() throws IOException {
+
+	   ReadExcel rd = new ReadExcel(System.getProperty("user.dir")+"\\src\\test\\java\\netBankingTestData\\testData.xlsx");
+//	   int row = rd.getRowCount(0);
+		Object[][] data = new Object[1][2];
+	
+		
+		data[0][0] = rd.getdata(0, 3, 0);
+		data[0][1] = rd.getdata(0, 3, 1);
+		
+		
+	
+		
+		
+
+		return data;
+	}
+
 	
 	
 
