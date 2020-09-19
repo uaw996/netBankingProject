@@ -26,7 +26,7 @@
       <span class="top-banner-title-font">Test results</span>
       <button class="button" id="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite</span>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -40,7 +40,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" class="navigator-link" panel-name="suite-Suite">
-              <span class="suite-name border-passed">Suite</span>
+              <span class="suite-name border-failed">Suite</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -93,7 +93,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">6 methods,   6 passed</span>
+                    <span class="method-stats">6 methods, 1 failed,   5 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Suite" class="hide-methods failed suite-Suite"> (hide)</a> <!-- hide-methods failed suite-Suite -->
+                      <a href="#" panel-name="suite-Suite" class="show-methods failed suite-Suite"> (show)</a> <!-- show-methods failed suite-Suite -->
+                    </span>
+                    <div class="method-list-content failed suite-Suite">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.netBankingTestCases.TC_ManagerIDTest" hash-for-method="getManagerIDTest(mngr285513, YdUpuzE)">getManagerIDTest(mngr285513, YdUpuzE)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Suite -->
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -102,16 +116,6 @@
                       <a href="#" panel-name="suite-Suite" class="show-methods passed suite-Suite"> (show)</a> <!-- show-methods passed suite-Suite -->
                     </span>
                     <div class="method-list-content passed suite-Suite">
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.netBankingTestCases.TC_ManagerIDTest" hash-for-method="getManagerIDTest(mngr276899, qapydAq)">getManagerIDTest(mngr276899, qapydAq)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.netBankingTestCases.TC_LoginTest_001" hash-for-method="loginTest(valid, invalid)">loginTest(valid, invalid)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
                       <span>
                         <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.netBankingTestCases.TC_LoginTest_001" hash-for-method="loginTest(username, password)">loginTest(username, password)</a> <!-- method navigator-link -->
@@ -124,7 +128,12 @@
                       <br/>
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.netBankingTestCases.TC_LoginTest_001" hash-for-method="loginTest(mngr276899, qapydAq)">loginTest(mngr276899, qapydAq)</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.netBankingTestCases.TC_LoginTest_001" hash-for-method="loginTest(valid, invalid)">loginTest(valid, invalid)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.netBankingTestCases.TC_LoginTest_001" hash-for-method="loginTest(mngr285513, YdUpuzE)">loginTest(mngr285513, YdUpuzE)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
@@ -144,20 +153,33 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Suite" class="panel Suite">
+          <div class="suite-Suite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.netBankingTestCases.TC_ManagerIDTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="getManagerIDTest(mngr285513, YdUpuzE)">
+                  </a> <!-- getManagerIDTest(mngr285513, YdUpuzE) -->
+                  <span class="method-name">getManagerIDTest</span>
+                  <span class="parameters">(mngr285513, YdUpuzE)</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [true] but found [false]
+	at com.netBankingTestCases.TC_ManagerIDTest.getManagerIDTest(TC_ManagerIDTest.java:50)
+	at java.util.ArrayList.forEach(ArrayList.java:1257)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-failed -->
           <div class="suite-Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
               <span class="class-name">com.netBankingTestCases.TC_LoginTest_001</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="loginTest(valid, invalid)">
-                  </a> <!-- loginTest(valid, invalid) -->
-                  <span class="method-name">loginTest</span>
-                  <span class="parameters">(valid, invalid)</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
                   <a name="loginTest(username, password)">
@@ -176,10 +198,18 @@
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
-                  <a name="loginTest(mngr276899, qapydAq)">
-                  </a> <!-- loginTest(mngr276899, qapydAq) -->
+                  <a name="loginTest(valid, invalid)">
+                  </a> <!-- loginTest(valid, invalid) -->
                   <span class="method-name">loginTest</span>
-                  <span class="parameters">(mngr276899, qapydAq)</span>
+                  <span class="parameters">(valid, invalid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginTest(mngr285513, YdUpuzE)">
+                  </a> <!-- loginTest(mngr285513, YdUpuzE) -->
+                  <span class="method-name">loginTest</span>
+                  <span class="parameters">(mngr285513, YdUpuzE)</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
@@ -187,22 +217,6 @@
                   <a name="titleTest">
                   </a> <!-- titleTest -->
                   <span class="method-name">titleTest</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Suite-class-passed -->
-          <div class="suite-Suite-class-passed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
-              <span class="class-name">com.netBankingTestCases.TC_ManagerIDTest</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="getManagerIDTest(mngr276899, qapydAq)">
-                  </a> <!-- getManagerIDTest(mngr276899, qapydAq) -->
-                  <span class="method-name">getManagerIDTest</span>
-                  <span class="parameters">(mngr276899, qapydAq)</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -216,13 +230,16 @@
             <pre>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
-&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Suite&quot; parallel=&quot;tests&quot;&gt;
-  &lt;test thread-count=&quot;5&quot; name=&quot;validating user login and managerHomePage title&quot; parallel=&quot;tests&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Suite&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;com.netBankingTestCases.Listeners&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;validating user login and managerHomePage title&quot;&gt;
     &lt;classes&gt;
       &lt;class name=&quot;com.netBankingTestCases.TC_LoginTest_001&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- validating user login and managerHomePage title --&gt;
-  &lt;test thread-count=&quot;5&quot; name=&quot;validate manager ID&quot; parallel=&quot;tests&quot;&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;validate manager ID&quot;&gt;
     &lt;classes&gt;
       &lt;class name=&quot;com.netBankingTestCases.TC_ManagerIDTest&quot;/&gt;
     &lt;/classes&gt;
@@ -271,32 +288,32 @@ data.addRows(6);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'getManagerIDTest')
 data.setCell(0, 2, 'com.netBankingTestCases.TC_ManagerIDTest')
-data.setCell(0, 3, 10913);
+data.setCell(0, 3, 12921);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'loginTest')
 data.setCell(1, 2, 'com.netBankingTestCases.TC_LoginTest_001')
-data.setCell(1, 3, 9582);
+data.setCell(1, 3, 12315);
 data.setCell(2, 0, 2)
 data.setCell(2, 1, 'loginTest')
 data.setCell(2, 2, 'com.netBankingTestCases.TC_LoginTest_001')
-data.setCell(2, 3, 7197);
+data.setCell(2, 3, 10892);
 data.setCell(3, 0, 3)
 data.setCell(3, 1, 'loginTest')
 data.setCell(3, 2, 'com.netBankingTestCases.TC_LoginTest_001')
-data.setCell(3, 3, 5589);
+data.setCell(3, 3, 6986);
 data.setCell(4, 0, 4)
 data.setCell(4, 1, 'loginTest')
 data.setCell(4, 2, 'com.netBankingTestCases.TC_LoginTest_001')
-data.setCell(4, 3, 4704);
+data.setCell(4, 3, 6777);
 data.setCell(5, 0, 5)
 data.setCell(5, 1, 'titleTest')
 data.setCell(5, 2, 'com.netBankingTestCases.TC_LoginTest_001')
-data.setCell(5, 3, 90);
+data.setCell(5, 3, 333);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 45 seconds</span>
+              <span class="suite-total-time">Total running time: 50 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -327,53 +344,46 @@ return data;
                 <span class="method-name">getDriver</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <span class="method-name">loginTest(username, password)</span>
+                <span class="method-start">30586 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">loginTest(invalid, valid)</span>
+                <span class="method-start">41494 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">loginTest(valid, invalid)</span>
+                <span class="method-start">48275 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">loginTest(mngr285513, YdUpuzE)</span>
+                <span class="method-start">55265 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">titleTest</span>
+                <span class="method-start">67685 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">68020 ms</span>
+              </div> <!-- configuration-class after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.netBankingTestCases.TC_ManagerIDTest</div> <!-- chronological-class-name -->
               <div class="configuration-test before">
                 <span class="method-name">getDriver</span>
-                <span class="method-start">0 ms</span>
+                <span class="method-start">69973 ms</span>
               </div> <!-- configuration-test before -->
               <div class="test-method">
-                <span class="method-name">getManagerIDTest(mngr276899, qapydAq)</span>
-                <span class="method-start">17652 ms</span>
-              </div> <!-- test-method -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.netBankingTestCases.TC_LoginTest_001</div> <!-- chronological-class-name -->
-              <div class="test-method">
-                <span class="method-name">loginTest(username, password)</span>
-                <span class="method-start">17652 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">loginTest(invalid, valid)</span>
-                <span class="method-start">27242 ms</span>
-              </div> <!-- test-method -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.netBankingTestCases.TC_ManagerIDTest</div> <!-- chronological-class-name -->
-              <div class="configuration-class after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">28569 ms</span>
-              </div> <!-- configuration-class after -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.netBankingTestCases.TC_LoginTest_001</div> <!-- chronological-class-name -->
-              <div class="test-method">
-                <span class="method-name">loginTest(valid, invalid)</span>
-                <span class="method-start">31950 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">loginTest(mngr276899, qapydAq)</span>
-                <span class="method-start">37543 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">titleTest</span>
-                <span class="method-start">44748 ms</span>
+                <img src="failed.png">
+                </img>
+                <span class="method-name">getManagerIDTest(mngr285513, YdUpuzE)</span>
+                <span class="method-start">79598 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">44842 ms</span>
+                <span class="method-start">93346 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

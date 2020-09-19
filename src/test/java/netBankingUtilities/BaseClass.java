@@ -1,8 +1,11 @@
 package netBankingUtilities;
 
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.Iterator;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
@@ -13,9 +16,12 @@ import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.io.FileHandler;
 import org.testng.annotations.AfterClass;
 
 public class BaseClass {
@@ -55,10 +61,25 @@ public static  String EXPECT_ERROR = "User or Password is not valid";
 		
     return driver;
 	}
+	public void getScreenShotPath(String testCaseName, WebDriver driver) throws IOException {
+//		File source = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+		// you can also write above statement 
+		String dateName = new SimpleDateFormat("hh mm ss").format(new Date());
+		TakesScreenshot ts=(TakesScreenshot)driver;
+		File source =  ts.getScreenshotAs(OutputType.FILE);
+		String destinationFile = System.getProperty("user.dir")+"\\screenShots\\"+testCaseName+""+dateName+".png";
+		 
+		 FileHandler.copy(source,new File(destinationFile));
+
+//		return destinationFile;
+	
+} 
+
+	
 	@AfterClass
 	public void tearDown() {
 		
-		driver.close();
+		driver.quit();
 		log.info("Browser closed successfully");
 	}
 	

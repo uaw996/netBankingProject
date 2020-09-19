@@ -92,17 +92,13 @@ public class TC_LoginTest_001 extends BaseClass {
 	   ReadExcel rd = new ReadExcel(System.getProperty("user.dir")+"\\src\\test\\java\\netBankingTestData\\testData.xlsx");
 	   int row = rd.getRowCount(0);
 		Object[][] data = new Object[row][2];
-	for(int i=0; i<row;i++) {
+	for(int i = 0; i<row;i++) {
 		
 		data[i][0] = rd.getdata(0, i, 0);
 		data[i][1] = rd.getdata(0, i, 1);
-		
-		
 	}
 		
-		
-
-		return data;
+			return data;
 	}
 
    
